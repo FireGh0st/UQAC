@@ -14,3 +14,5 @@ I chose to do my semester abroad at the University of Quebec in Chicoutimi (UQAC
   [<img src="./InfoMob/nitflex/captures/crop_for_md.png" width="150"/>](./InfoMob/nitflex/)
   - [ ] [Project](./InfoMob/Projet) - Maybe Online Store (Amazon-like)
     - [ ] [Synopsis](./InfoMob/Projet/Synopsis.pdf) - Project description
+- [ ] [Réalité virtuelle](./VR) (Presentation graded)
+  - [x] [Presentation VR app/concept](./VR/VR_presentation_w4.md) (graded X/20)

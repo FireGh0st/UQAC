@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Nitflex" parent="Theme.Material3.DayNight"> <!--.NoActionBar -->
+        <item name="android:textAlignment">textStart</item>
+        <item name="color">#719013</item>
+    </style>
+
+    <style name="Theme.Nitflex" parent="Base.Theme.Nitflex" />
+
+    <style name="Base.Theme.Nitflex.welcome">
+        <item name="textOutlineColor">#730730</item>
+        <item name="android:textAlignment">textEnd</item>
+    </style>
+
+    <style name="Base.Theme.Nitflex.start">
+        <item name="android:colorForeground">#170170</item>
+    </style>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="header_text">"Bienvenue sur NitFlex "</string>
+    <string name="tuto_text">Ce film n\'est pas disponible!</string>
+    <string name="logo_img_description">Pas de logo</string>
+    <string name="item_menu1">Objet 1</string>
+    <string name="texte_bouton_start">Démarrer</string>
+    <string name="item_menu2">Objet 2</string>
+</resources>

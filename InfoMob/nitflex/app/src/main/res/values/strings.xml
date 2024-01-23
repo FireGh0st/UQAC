@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">NitFlex</string>
+    <string name="header_text">Welcome to NitFlex</string>
+    <string name="tuto_text">Press start for our unique video</string>
+    <string name="logo_img_description">logo of NitFlex</string>
+    <string name="item_menu1">Item 1</string>
+
+
+    <string name="texte_bouton_start">START</string>
+    <string name="item_menu2">Item 2</string>
+</resources>

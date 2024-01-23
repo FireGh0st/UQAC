@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/header_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/header_text"
+        android:textAlignment="center"
+
+        style="@style/Base.Theme.Nitflex.welcome"
+        />
+
+    <TextView
+        android:id="@+id/text_tuto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tuto_text"
+        android:textAlignment="center"
+        android:textColor="#FF5722"
+
+        style="@style/Base.Theme.Nitflex.welcome"
+        />
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/logo_img_description"
+        android:src="@drawable/nitflex"
+        />
+
+
+</LinearLayout>

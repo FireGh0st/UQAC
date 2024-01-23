@@ -8,5 +8,9 @@ I chose to do my semester abroad at the University of Quebec in Chicoutimi (UQAC
   - [ ] [TP1](./POO/TP1) (graded X/20)
   - [ ] [TD3](./POO/TD3)
   - [ ] [TD4](./POO/TD4)
-- [ ] [Informatique mobile](./Mobile)
-  - [ ] [TP1](./Mobile/TP1)
+- [ ] [Informatique mobile](./Mobile) (TDs not graded, TPs and project graded)
+  - [x] [TD1](./InfoMob/HelloDroide/) - Discovering Android Studio, First Application
+  - [x] [TP1](./InfoMob/nitflex/) - Internationalization, Themes, Styles, Menu (graded X/20) <br>  
+  [<img src="./InfoMob/nitflex/captures/crop_for_md.png" width="150"/>](./InfoMob/nitflex/)
+  - [ ] [Project](./InfoMob/Projet) - Maybe Online Store (Amazon-like)
+    - [ ] [Synopsis](./InfoMob/Projet/Synopsis.pdf) - Project description
